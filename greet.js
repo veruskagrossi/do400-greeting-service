@@ -1,4 +1,4 @@
 module.exports = function greet(name) {
-//xxx
+//yyy
 	return `Ciao ${name || "guest"}!`;
 }
